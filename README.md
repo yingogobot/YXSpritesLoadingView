@@ -10,12 +10,12 @@ YXSpritesLoadingView
 
 
 ## INSTALLATION
-Drag the `YXSpritesLoadingView` folder into your project. `FBShimmering` library is included in `YXSpritesLoadingView` foler, you can remove it if you have that library already. Works for iOS7, using `ARC`
+Drag the `YXSpritesLoadingView` folder into your project. `FBShimmering` library is included with `YXSpritesLoadingView`, but you can remove it if you have that library already. Works for iOS7, using `ARC`.
 
 ## HOW TO USE
 
 ### CUSTOMIZATION
-You can simply change the numbers in `YXSpritesLoadingView.h` to custom the loader
+You can simply change the numbers in `YXSpritesLoadingView.h` to customize the loader.
 
 ```objective-c
 /***************************************************************
@@ -88,6 +88,6 @@ You can simply change the numbers in `YXSpritesLoadingView.h` to custom the load
 
 ## CREDITS
 Inspired by [Gogobot iPhone App](http://itunes.apple.com/app/gogobot/id459590827?mt=8&ls=1)
-Great support from [Sccot Marchington](https://github.com/smarchington)
-Assets used in exmaples are from Internet, please do not use them for commerical purpose 
+Great support from [Scott Marchington](https://github.com/smarchington)
+Assets used in examples are from Internet, please do not use them for commerical purpose 
 
