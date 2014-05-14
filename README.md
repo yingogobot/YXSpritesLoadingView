@@ -14,7 +14,7 @@ Drag the `YXSpritesLoadingView` folder into your project. `FBShimmering` library
 
 ## HOW TO USE
 
-# CUSTOMIZATION
+### CUSTOMIZATION
 ```objective-c
 + (void)show;
 + (void)showWithText:(NSString *)text;
