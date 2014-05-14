@@ -15,6 +15,8 @@ Drag the `YXSpritesLoadingView` folder into your project. `FBShimmering` library
 ## HOW TO USE
 
 ### CUSTOMIZATION
+You can simply change the numbers we defin
+
 ```objective-c
 /***************************************************************
  
@@ -22,7 +24,8 @@ Drag the `YXSpritesLoadingView` folder into your project. `FBShimmering` library
  
  - 85% alpha white is the default color
  - 5 is default Loader Corner Radius
- - set loaderBlurViewShow to YES will have the blur effect on loader background, the background color will be ignored
+ - set loaderBlurViewShow to YES will have the blur effect on loader background
+   the background color will be ignored
  
 ***************************************************************/
 
@@ -36,7 +39,9 @@ Drag the `YXSpritesLoadingView` folder into your project. `FBShimmering` library
  
  Define Animation Attributes Here:
  - cycleAnimationDuration is duration for one cycle of images
- - animationImageWidth & animationImageHeight is the size of the animation image view, but the content mode is UIViewContentModeCenter, so images won't be stretched, set this size carefully, usually large than the sprites
+ - animationImageWidth & animationImageHeight is the size of the animation image view, 
+   but the content mode is UIViewContentModeCenter, so images won't be stretched, set this size carefully
+   usually large than the sprites
  
  ##IMPORTANT##
  - numberOfFramesInAnimation is total number of sprites in one cycly of animation
