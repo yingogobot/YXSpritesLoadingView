@@ -86,3 +86,8 @@ You can simply change the numbers in `YXSpritesLoadingView.h` to custom the load
 + (void)dismiss;
 ```
 
+## CREDITS
+Inspired by [Gogobot iPhone App](http://itunes.apple.com/app/gogobot/id459590827?mt=8&ls=1)
+Got support fomr [Sccot Marchington](https://github.com/smarchington)
+
+
