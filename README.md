@@ -1,4 +1,4 @@
-YXSpritesLoadingView + FBShimmering
+YXSpritesLoadingView
 ====================
 
 ## OVERVIEW
