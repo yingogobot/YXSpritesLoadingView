@@ -15,7 +15,7 @@ Drag the `YXSpritesLoadingView` folder into your project. `FBShimmering` library
 ## HOW TO USE
 
 ### CUSTOMIZATION
-You can simply change the numbers we defin
+You can simply change the numbers in `YXSpritesLoadingView.h` to custom the loader
 
 ```objective-c
 /***************************************************************
